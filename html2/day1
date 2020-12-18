@@ -1,0 +1,22 @@
+<html><head><title>mens list</title>
+<body>
+    <table border="3"width="1150"height="1">
+    <tr>
+        <th rowspan="1">Our new colletions</th>
+    </tr>
+</table>
+<img src="a (2).jpeg"alt="kurta"width="300"height="410">
+<table border="1"width="300"height="2"><tr><th rowspan="1">Rs.425/-</th></tr> </table><p><a href="top(a).html">view</a></p>
+ <img src="b (2).jpeg"alt="kurta"width="300"height="410"> 
+ <table border="1"width="300"height="2"><tr><th rowspan="1">Rs.450/-</th></tr> </table><p><a href="top(b).html">view</a></p>
+ <img src="c (2).jpeg"alt="kurta"width="300"height="410">
+ <table border="1"width="300"height="2"><tr><th rowspan="1">Rs.475/-</th></tr> </table><p><a href="top(c).html">view</a></p>
+ <img src="d (2).jpeg"alt="kurta"width="300"height="410">
+ <table border="1"width="300"height="2"><tr><th rowspan="1">Rs.325/-</th></tr> </table><p><a href="top(d).html">view</a></p>
+  <p>
+    <a href="project1.html">Back to top</a>
+    </p>
+
+</body>
+</head>
+</html>
